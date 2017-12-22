@@ -1,0 +1,14 @@
+/* .box5{
+	font-size: 60px;
+	text-align: center;
+	background-image: linear-gradient(to right,red,blue);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+} */
+.box5{
+	font-size: 60px;
+	text-align: center;
+	background-image: url('img/gushi2.png');
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
